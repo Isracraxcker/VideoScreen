@@ -190,22 +190,6 @@ const { startRecording, stopRecording, isRecording } = useScreenRecorder({
 - 📊 **Logs de auditoría** para todas las acciones
 
 
-## 📚 Documentación Adicional
-
-<div align="center">
-
-| Recurso | Descripción | Link |
-|---------|-------------|------|
-| 📖 **API Reference** | Documentación completa de endpoints | [Ver Docs](./docs/api.md) |
-| 🎨 **Design System** | Guía de componentes UI | [Ver Sistema](./docs/design.md) |
-| 🔧 **Deployment Guide** | Guía de despliegue detallada | [Ver Guía](./docs/deployment.md) |
-| 🧪 **Testing Guide** | Estrategias de testing | [Ver Tests](./docs/testing.md) |
-
-</div>
-
----
-
-
 
 ## 📄 Licencia
 
@@ -222,8 +206,8 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Isracraxcker)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/andyjaramillo)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://andyjaramillo.dev)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andy@jaramillo.dev)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://andy-jaramillo.vercel.app/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:andyisraeljaramillo@gmail.com)
 
 *"Transformando ideas en experiencias digitales excepcionales"*
 
@@ -239,7 +223,7 @@ Este proyecto está bajo la Licencia MIT. Ver el archivo [LICENSE](LICENSE) para
 
 [![Star History Chart](https://api.star-history.com/svg?repos=Isracraxcker/VideoScreen&type=Date)](https://star-history.com/#Isracraxcker/VideoScreen&Date)
 
-**¿Te gusta el proyecto?** Considera [☕ invitarme un café](https://buymeacoffee.com/andyjaramillo)
+**¿Te gusta el proyecto?** Considera [☕ invitarme un café](https://buymeacoffee.com/andyisraela)
 
 </div>
 
